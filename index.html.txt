@@ -1,0 +1,15 @@
+HTML
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>İstanbul: Biyotik Mimarlık ve Ortak Yaşam Haritalaması</title>
+</head>
+<body>
+    <p>Bu platform; İstanbul'un tarihi katmanları ile insan ve insan-dışı canlıların ortak yaşam pratiklerini etkileşimli bir haritalama (mapping) üzerinden incelemek üzere kurgulanmıştır.</p>
+    
+    <p>Çalışma; modern mimarinin sterilize eden 'antibiyotik' yaklaşımını eleştirerek, kentin biyotik dinamiklerini ve canlıların mekan üzerindeki izlerini görünür kılmayı amaçlar.</p>
+    
+    <p>İstanbul ölçeğinde insanın diğer canlılarla kurduğu mekansal ilişkileri araştırarak, kapsayıcı ve en elverişli birlikte yaşam pratiklerini elde etmeyi hedefleyen bir araştırmadır.</p>
+</body>
+</html>
